@@ -1,0 +1,32 @@
+# Bluetooth
+bluetooth.device.default_name=Xiaomi 15
+
+# Display
+persist.sys.miui_resolution=1200,2670,520
+ro.vendor.mi_sf.supported_automode_maxfps_list=120
+ro.vendor.touchfeature.type=247
+
+# Graphics
+vendor.display.enable_spr=1
+
+# Fingerprint
+persist.vendor.fingerprint.type=udfps
+persist.vendor.fingerprint.sensor_location=600|2050|109
+persist.vendor.sys.fp.fod.location.X_Y=518,1954
+persist.vendor.sys.fp.fod.size.width_height=164,164
+persist.vendor.sys.fp.fod.us.target=509,1936,690,2135
+ro.hardware.fp.fod=true
+ro.hardware.fp.fod.c=true
+ro.hardware.fp.fod.touch.ctl.version=2.0
+ro.hardware.fp.mievent=true
+
+# Marketname
+ro.product.marketname=Xiaomi 15
+
+# Sensor
+persist.vendor.sensor.mischeck=true
+ro.vendor.sensor.maxbrightness=2731
+ro.vendor.proxcal.factor=3.0
+
+# USB
+vendor.usb.product_string=Xiaomi 15
